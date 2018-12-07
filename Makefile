@@ -1,0 +1,3 @@
+all:
+	javac src/*.java
+	
